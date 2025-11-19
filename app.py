@@ -4,7 +4,7 @@ import pandas as pd
 
 # --- 設定 ---
 # スプレッドシートのURL（フェーズ1-1で控えたものに書き換えてください）
-SPREADSHEET_URL = "https://docs.google.com/spreadsheets/d/xxxxxxxx/edit"
+SPREADSHEET_URL = "https://docs.google.com/spreadsheets/d/1z2e5Yk5tR5HvV8eWqKcDzfuw9e3NGVyK3ml4dv3Dnxk/edit?gid=0#gid=0"
 
 CAPTIONS = [
     "伝票番号",
